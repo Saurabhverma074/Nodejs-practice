@@ -2,11 +2,11 @@ const fs=require("fs");
 
 
 
-// sync..    call thaa
+// sync..    call thaa    Blocking request hai
 // fs.writeFileSync('./test.txt',"hey There");
 
 
-// async
+// async    non-blocikg request hai
 // fs.writeFile('./test.txt',"hey There async",(err)=>{});
 
 
